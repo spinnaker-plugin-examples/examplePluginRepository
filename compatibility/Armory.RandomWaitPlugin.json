@@ -6,7 +6,9 @@
         {
           "outcome": "failure",
           "platformVersions": [
-            "1.26.1"
+            "1.26.2",
+            "1.26.1",
+            "1.26.0"
           ],
           "service": "orca",
           "version": "2.20.0-20210422230020"
@@ -107,7 +109,9 @@
         {
           "outcome": "failure",
           "platformVersions": [
-            "1.26.1"
+            "1.26.2",
+            "1.26.1",
+            "1.26.0"
           ],
           "service": "orca",
           "version": "2.20.0-20210422230020"
@@ -208,7 +212,9 @@
         {
           "outcome": "failure",
           "platformVersions": [
-            "1.26.1"
+            "1.26.2",
+            "1.26.1",
+            "1.26.0"
           ],
           "service": "orca",
           "version": "2.20.0-20210422230020"
