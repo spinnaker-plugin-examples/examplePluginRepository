@@ -6,6 +6,14 @@
         {
           "outcome": "failure",
           "platformVersions": [
+            "1.26.3"
+          ],
+          "service": "orca",
+          "version": "2.20.1-20210508020019"
+        },
+        {
+          "outcome": "failure",
+          "platformVersions": [
             "1.26.2",
             "1.26.1",
             "1.26.0"
@@ -106,6 +114,14 @@
     },
     {
       "compatibility": [
+        {
+          "outcome": "failure",
+          "platformVersions": [
+            "1.26.3"
+          ],
+          "service": "orca",
+          "version": "2.20.1-20210508020019"
+        },
         {
           "outcome": "failure",
           "platformVersions": [
