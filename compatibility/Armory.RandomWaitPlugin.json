@@ -34,6 +34,14 @@
           "version": "2.19.0-20210209140018"
         },
         {
+          "outcome": "failure",
+          "platformVersions": [
+            "1.24.5"
+          ],
+          "service": "orca",
+          "version": "2.18.2-20210526010735"
+        },
+        {
           "outcome": "success",
           "platformVersions": [
             "1.24.4"
@@ -143,6 +151,14 @@
           ],
           "service": "orca",
           "version": "2.19.0-20210209140018"
+        },
+        {
+          "outcome": "failure",
+          "platformVersions": [
+            "1.24.5"
+          ],
+          "service": "orca",
+          "version": "2.18.2-20210526010735"
         },
         {
           "outcome": "success",
