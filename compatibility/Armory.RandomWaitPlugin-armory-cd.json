@@ -1,4 +1,88 @@
 {
   "id": "Armory.RandomWaitPlugin",
-  "releases": []
+  "releases": [
+    {
+      "commit": "73a41da59685b4322d8f359425dfb399c9174c31",
+      "compatibility": [
+        {
+          "checkRunUrl": "https://github.com/spinnaker-plugin-examples/pf4jStagePlugin/runs/3402621100",
+          "extensions": [],
+          "outcome": "success",
+          "platforms": [
+            "1.26.3"
+          ],
+          "service": "orca",
+          "stacks": [],
+          "startedAt": "2021-08-23T16:33:31Z",
+          "version": "2021.05.07.15.54.14.release-1.26.x"
+        },
+        {
+          "checkRunUrl": "https://github.com/spinnaker-plugin-examples/pf4jStagePlugin/runs/3402644380",
+          "extensions": [],
+          "outcome": "success",
+          "platforms": [
+            "1.26.4"
+          ],
+          "service": "orca",
+          "stacks": [],
+          "startedAt": "2021-08-23T16:36:10Z",
+          "version": "2021.05.25.16.18.41.release-1.26.x"
+        },
+        {
+          "checkRunUrl": "https://github.com/spinnaker-plugin-examples/pf4jStagePlugin/runs/3402645963",
+          "extensions": [],
+          "outcome": "success",
+          "platforms": [
+            "1.26.2",
+            "1.26.1",
+            "1.26.0"
+          ],
+          "service": "orca",
+          "stacks": [],
+          "startedAt": "2021-08-23T16:36:25Z",
+          "version": "2021.04.23.02.16.26.master"
+        },
+        {
+          "checkRunUrl": "https://github.com/spinnaker-plugin-examples/pf4jStagePlugin/runs/3402716645",
+          "extensions": [],
+          "outcome": "success",
+          "platforms": [],
+          "service": "orca",
+          "stacks": [
+            "2.27.0-rc1"
+          ],
+          "startedAt": "2021-08-23T16:44:53Z",
+          "version": "2021.08.04.22.43.31.master"
+        },
+        {
+          "checkRunUrl": "https://github.com/spinnaker-plugin-examples/pf4jStagePlugin/runs/3377584182",
+          "extensions": [],
+          "outcome": "success",
+          "platforms": [
+            "master-20210630170020"
+          ],
+          "service": "orca",
+          "stacks": [],
+          "startedAt": "2021-08-20T00:53:33Z",
+          "version": "2021.06.28.20.31.46.master"
+        },
+        {
+          "checkRunUrl": "https://github.com/spinnaker-plugin-examples/pf4jStagePlugin/runs/3402645458",
+          "extensions": [],
+          "outcome": "success",
+          "platforms": [
+            "1.26.6",
+            "1.26.5"
+          ],
+          "service": "orca",
+          "stacks": [],
+          "startedAt": "2021-08-23T16:36:18Z",
+          "version": "2021.06.30.06.21.37.release-1.26.x"
+        }
+      ],
+      "versions": [
+        "1.2.0"
+      ]
+    }
+  ]
 }
