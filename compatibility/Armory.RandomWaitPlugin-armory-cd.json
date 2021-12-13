@@ -11,6 +11,9 @@
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "orca-armory",
+        "version" : "2021.12.13.18.20.30.release-2.25.x"
+      }, {
+        "name" : "orca-armory",
         "version" : "2021.12.07.23.56.10.release-2.25.x"
       } ],
       "checkRunUrl" : "https://github.com/spinnaker-plugin-examples/pf4jStagePlugin/runs/4509026946",
