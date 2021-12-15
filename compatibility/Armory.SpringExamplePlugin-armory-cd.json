@@ -49,7 +49,7 @@
       "service" : "orca",
       "version" : "2021.08.17.08.55.02.release-1.26.x",
       "outcome" : "success",
-      "stacks" : [ "2.26.4-rc1", "2.26.3-rc2", "2.26.3-rc1", "2.26.3" ],
+      "stacks" : [ "2.26.4-rc2", "2.26.4-rc1", "2.26.3-rc2", "2.26.3-rc1", "2.26.3" ],
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "orca-armory",
