@@ -7,7 +7,7 @@
       "service" : "orca",
       "version" : "2021.12.07.23.35.56.release-1.25.x",
       "outcome" : "failure",
-      "stacks" : [ "2.25.1-rc3", "2.25.1-rc2" ],
+      "stacks" : [ "2.25.1-rc4", "2.25.1-rc3", "2.25.1-rc2" ],
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "orca-armory",
