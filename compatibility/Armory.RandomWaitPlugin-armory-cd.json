@@ -5,6 +5,18 @@
     "versions" : [ "1.2.1" ],
     "compatibility" : [ {
       "service" : "orca",
+      "version" : "2022.02.15.22.24.23.release-1.27.x",
+      "outcome" : "success",
+      "stacks" : [ "2.27.3-rc5" ],
+      "platforms" : [ ],
+      "extensions" : [ {
+        "name" : "orca-armory",
+        "version" : "2022.02.22.21.08.30.release-2.27.x"
+      } ],
+      "checkRunUrl" : "https://github.com/spinnaker-plugin-examples/pf4jStagePlugin/runs/5296445426",
+      "startedAt" : "2022-02-22T23:40:56Z"
+    }, {
+      "service" : "orca",
       "version" : "2022.01.19.07.10.29.release-1.27.x",
       "outcome" : "success",
       "stacks" : [ "2.27.3-rc4", "2.27.3-rc3", "2.27.3-rc2" ],
