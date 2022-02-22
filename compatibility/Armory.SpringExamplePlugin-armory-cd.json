@@ -114,18 +114,6 @@
       } ],
       "checkRunUrl" : "https://github.com/spinnaker-plugin-examples/springExamplePlugin/runs/5099245675",
       "startedAt" : "2022-02-07T20:04:39Z"
-    }, {
-      "service" : "orca",
-      "version" : "2021.08.04.22.43.31.master",
-      "outcome" : "success",
-      "stacks" : [ "2.27.0-rc1" ],
-      "platforms" : [ ],
-      "extensions" : [ {
-        "name" : "orca-armory",
-        "version" : "2021.08.04.23.02.03.master"
-      } ],
-      "checkRunUrl" : "https://github.com/spinnaker-plugin-examples/springExamplePlugin/runs/5099246273",
-      "startedAt" : "2022-02-07T20:04:42Z"
     } ]
   } ]
 }
