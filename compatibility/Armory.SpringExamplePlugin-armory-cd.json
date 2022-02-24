@@ -11,6 +11,9 @@
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "orca-armory",
+        "version" : "2022.02.22.23.00.20.release-2.27.x"
+      }, {
+        "name" : "orca-armory",
         "version" : "2022.02.22.21.08.30.release-2.27.x"
       } ],
       "checkRunUrl" : "https://github.com/spinnaker-plugin-examples/springExamplePlugin/runs/5296445333",
