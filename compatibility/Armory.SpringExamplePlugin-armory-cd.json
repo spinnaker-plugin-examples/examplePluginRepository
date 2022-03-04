@@ -1,4 +1,131 @@
 {
   "id" : "Armory.SpringExamplePlugin",
-  "releases" : [ ]
+  "releases" : [ {
+    "commit" : "603c213a7c8c1af98e860ca2cf75467e28cb2e14",
+    "versions" : [ "1.2.2" ],
+    "compatibility" : [ {
+      "service" : "orca",
+      "version" : "2022.02.15.22.24.23.release-1.27.x",
+      "outcome" : "success",
+      "stacks" : [ "2.27.3-rc6", "2.27.3-rc5" ],
+      "platforms" : [ ],
+      "extensions" : [ {
+        "name" : "orca-armory",
+        "version" : "2022.02.22.23.00.20.release-2.27.x"
+      }, {
+        "name" : "orca-armory",
+        "version" : "2022.02.22.21.08.30.release-2.27.x"
+      } ],
+      "checkRunUrl" : "https://github.com/spinnaker-plugin-examples/springExamplePlugin/runs/5418266990",
+      "startedAt" : "2022-03-04T06:14:50Z"
+    }, {
+      "service" : "orca",
+      "version" : "2022.01.19.07.10.29.release-1.27.x",
+      "outcome" : "success",
+      "stacks" : [ "2.27.3-rc4", "2.27.3-rc3", "2.27.3-rc2" ],
+      "platforms" : [ ],
+      "extensions" : [ {
+        "name" : "orca-armory",
+        "version" : "2022.02.08.22.28.09.release-2.27.x"
+      }, {
+        "name" : "orca-armory",
+        "version" : "2022.02.03.22.33.53.release-2.27.x"
+      }, {
+        "name" : "orca-armory",
+        "version" : "2022.01.25.22.14.29.release-2.27.x"
+      }, {
+        "name" : "orca-armory",
+        "version" : "2022.01.25.22.09.30.release-2.27.x"
+      } ],
+      "checkRunUrl" : "https://github.com/spinnaker-plugin-examples/springExamplePlugin/runs/5418266815",
+      "startedAt" : "2022-03-04T06:14:47Z"
+    }, {
+      "service" : "orca",
+      "version" : "2021.12.07.23.35.56.release-1.25.x",
+      "outcome" : "success",
+      "stacks" : [ "2.25.1-rc4", "2.25.1-rc3", "2.25.1-rc2", "2.25.1" ],
+      "platforms" : [ ],
+      "extensions" : [ {
+        "name" : "orca-armory",
+        "version" : "2022.01.25.22.03.20.release-2.25.x"
+      }, {
+        "name" : "orca-armory",
+        "version" : "2022.01.10.23.05.08.release-2.25.x"
+      }, {
+        "name" : "orca-armory",
+        "version" : "2021.12.07.23.56.10.release-2.25.x"
+      } ],
+      "checkRunUrl" : "https://github.com/spinnaker-plugin-examples/springExamplePlugin/runs/5418266621",
+      "startedAt" : "2022-03-04T06:14:46Z"
+    }, {
+      "service" : "orca",
+      "version" : "2021.08.17.09.13.42.release-1.27.x",
+      "outcome" : "success",
+      "stacks" : [ "2.27.3-rc1", "2.27.2-rc0", "2.27.1-rc8", "2.27.1-rc7", "2.27.1-rc6", "2.27.1-rc5", "2.27.1-rc4", "2.27.1-rc3", "2.27.1-rc2", "2.27.1-rc1", "2.27.2", "2.27.1", "2.27.0", "2.27.0-rc7", "2.27.0-rc6", "2.27.0-rc5", "2.27.0-rc4", "2.27.0-rc3", "2.27.0-rc2" ],
+      "platforms" : [ ],
+      "extensions" : [ {
+        "name" : "orca-armory",
+        "version" : "2022.01.25.22.02.49.release-2.27.x"
+      }, {
+        "name" : "orca-armory",
+        "version" : "2022.01.14.21.57.32.release-2.27.x"
+      }, {
+        "name" : "orca-armory",
+        "version" : "2021.10.26.20.11.53.release-2.27.x"
+      }, {
+        "name" : "orca-armory",
+        "version" : "2021.10.26.01.21.56.release-2.27.x"
+      }, {
+        "name" : "orca-armory",
+        "version" : "2021.10.01.23.32.55.release-2.27.x"
+      }, {
+        "name" : "orca-armory",
+        "version" : "2021.09.09.20.00.11.release-2.27.x"
+      }, {
+        "name" : "orca-armory",
+        "version" : "2021.08.23.22.49.49.release-2.27.x"
+      }, {
+        "name" : "orca-armory",
+        "version" : "2021.08.17.09.34.48.release-2.27.x"
+      } ],
+      "checkRunUrl" : "https://github.com/spinnaker-plugin-examples/springExamplePlugin/runs/5418266902",
+      "startedAt" : "2022-03-04T06:14:48Z"
+    }, {
+      "service" : "orca",
+      "version" : "2021.08.17.08.55.02.release-1.26.x",
+      "outcome" : "success",
+      "stacks" : [ "2.26.5-rc1", "2.26.4-rc3", "2.26.4-rc2", "2.26.4-rc1", "2.26.3-rc2", "2.26.3-rc1", "2.26.2-rc4", "2.26.2-rc3", "2.26.2-rc2", "2.26.2-rc1", "2.26.5", "2.26.4", "2.26.3", "2.26.2" ],
+      "platforms" : [ ],
+      "extensions" : [ {
+        "name" : "orca-armory",
+        "version" : "2022.01.25.22.03.00.release-2.26.x"
+      }, {
+        "name" : "orca-armory",
+        "version" : "2021.10.01.23.39.04.release-2.26.x"
+      }, {
+        "name" : "orca-armory",
+        "version" : "2021.09.09.19.59.10.release-2.26.x"
+      }, {
+        "name" : "orca-armory",
+        "version" : "2021.08.23.23.00.33.release-2.26.x"
+      }, {
+        "name" : "orca-armory",
+        "version" : "2021.08.17.09.34.54.release-2.26.x"
+      } ],
+      "checkRunUrl" : "https://github.com/spinnaker-plugin-examples/springExamplePlugin/runs/5418266732",
+      "startedAt" : "2022-03-04T06:14:48Z"
+    }, {
+      "service" : "orca",
+      "version" : "2021.08.17.08.54.23.release-1.25.x",
+      "outcome" : "failure",
+      "stacks" : [ "2.25.1-rc1" ],
+      "platforms" : [ ],
+      "extensions" : [ {
+        "name" : "orca-armory",
+        "version" : "2021.11.08.23.28.26.release-2.25.x"
+      } ],
+      "checkRunUrl" : "https://github.com/spinnaker-plugin-examples/springExamplePlugin/runs/5418266726",
+      "startedAt" : "2022-03-04T06:14:49Z"
+    } ]
+  } ]
 }
