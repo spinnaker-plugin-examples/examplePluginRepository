@@ -11,6 +11,9 @@
       "platforms" : [ ],
       "extensions" : [ {
         "name" : "orca-armory",
+        "version" : "2022.04.29.17.57.36.release-2.28.x"
+      }, {
+        "name" : "orca-armory",
         "version" : "2022.04.28.20.14.17.release-2.28.x"
       }, {
         "name" : "orca-armory",
