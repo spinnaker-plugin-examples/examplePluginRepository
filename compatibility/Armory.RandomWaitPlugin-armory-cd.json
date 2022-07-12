@@ -34,8 +34,8 @@
         "name" : "orca-armory",
         "version" : "2022.04.27.06.17.12.release-2.28.x"
       } ],
-      "checkRunUrl" : "https://github.com/spinnaker-plugin-examples/pf4jStagePlugin/runs/7155214016",
-      "startedAt" : "2022-07-01T18:43:54Z"
+      "checkRunUrl" : "https://github.com/spinnaker-plugin-examples/pf4jStagePlugin/runs/7305281099",
+      "startedAt" : "2022-07-12T15:41:49Z"
     }, {
       "service" : "orca",
       "version" : "2022.04.26.21.22.29.release-1.27.x",
@@ -73,8 +73,8 @@
         "name" : "orca-armory",
         "version" : "2022.02.22.21.08.30.release-2.27.x"
       } ],
-      "checkRunUrl" : "https://github.com/spinnaker-plugin-examples/pf4jStagePlugin/runs/7155213315",
-      "startedAt" : "2022-07-01T18:43:51Z"
+      "checkRunUrl" : "https://github.com/spinnaker-plugin-examples/pf4jStagePlugin/runs/7305279175",
+      "startedAt" : "2022-07-12T15:41:43Z"
     }, {
       "service" : "orca",
       "version" : "2022.01.19.07.10.29.release-1.27.x",
@@ -94,8 +94,8 @@
         "name" : "orca-armory",
         "version" : "2022.01.25.22.09.30.release-2.27.x"
       } ],
-      "checkRunUrl" : "https://github.com/spinnaker-plugin-examples/pf4jStagePlugin/runs/7155213516",
-      "startedAt" : "2022-07-01T18:43:49Z"
+      "checkRunUrl" : "https://github.com/spinnaker-plugin-examples/pf4jStagePlugin/runs/7305280277",
+      "startedAt" : "2022-07-12T15:41:46Z"
     } ]
   } ]
 }
