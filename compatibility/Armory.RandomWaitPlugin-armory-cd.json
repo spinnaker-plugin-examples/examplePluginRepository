@@ -22,7 +22,7 @@
       "service" : "orca",
       "version" : "2022.08.17.22.25.10.release-1.27.x",
       "outcome" : "success",
-      "stacks" : [ "2.27.4-rc3", "2.27.4-rc2" ],
+      "stacks" : [ "2.27.4-rc3", "2.27.4-rc2", "2.27.4" ],
       "platforms" : [ "1.27.1" ],
       "extensions" : [ {
         "name" : "orca-armory",
