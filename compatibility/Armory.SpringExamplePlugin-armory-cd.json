@@ -5,6 +5,33 @@
     "versions" : [ "1.2.2" ],
     "compatibility" : [ {
       "service" : "orca",
+      "version" : "2022.09.14.16.14.23.master",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.29.0" ],
+      "extensions" : [ {
+        "name" : "orca-armory",
+        "version" : "2022.09.14.17.03.50.master"
+      } ],
+      "checkRunUrl" : "https://github.com/spinnaker-plugin-examples/springExamplePlugin/runs/8991760474",
+      "startedAt" : "2022-10-19T19:09:42Z"
+    }, {
+      "service" : "orca",
+      "version" : "2022.08.19.03.19.08.release-1.28.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.28.1", "1.28.0" ],
+      "extensions" : [ {
+        "name" : "orca-armory",
+        "version" : "2022.08.19.16.44.17.release-2.28.x"
+      }, {
+        "name" : "orca-armory",
+        "version" : "2022.08.19.03.35.47.release-2.28.x"
+      } ],
+      "checkRunUrl" : "https://github.com/spinnaker-plugin-examples/springExamplePlugin/runs/8991758804",
+      "startedAt" : "2022-10-19T19:09:38Z"
+    }, {
+      "service" : "orca",
       "version" : "2022.08.17.22.25.10.release-1.27.x",
       "outcome" : "success",
       "stacks" : [ "2.27.4-rc3", "2.27.4-rc2", "2.27.4" ],
@@ -66,6 +93,18 @@
       } ],
       "checkRunUrl" : "https://github.com/spinnaker-plugin-examples/springExamplePlugin/runs/8991459068",
       "startedAt" : "2022-10-19T18:53:01Z"
+    }, {
+      "service" : "orca",
+      "version" : "2022.04.26.21.22.29.release-1.27.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.27.0" ],
+      "extensions" : [ {
+        "name" : "orca-armory",
+        "version" : "2022.04.26.21.43.12.release-2.27.x"
+      } ],
+      "checkRunUrl" : "https://github.com/spinnaker-plugin-examples/springExamplePlugin/runs/8991759820",
+      "startedAt" : "2022-10-19T19:09:41Z"
     } ]
   } ]
 }
