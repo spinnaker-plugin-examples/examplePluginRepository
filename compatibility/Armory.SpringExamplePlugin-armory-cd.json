@@ -5,6 +5,18 @@
     "versions" : [ "1.2.2" ],
     "compatibility" : [ {
       "service" : "orca",
+      "version" : "2022.10.19.20.47.46.release-1.28.x",
+      "outcome" : "failure",
+      "stacks" : [ "2.28.1-rc1" ],
+      "platforms" : [ ],
+      "extensions" : [ {
+        "name" : "orca-armory",
+        "version" : "2022.10.19.21.04.24.release-2.28.x"
+      } ],
+      "checkRunUrl" : "https://github.com/spinnaker-plugin-examples/springExamplePlugin/runs/9232896226",
+      "startedAt" : "2022-11-01T18:41:59Z"
+    }, {
+      "service" : "orca",
       "version" : "2022.09.14.16.14.23.master",
       "outcome" : "success",
       "stacks" : [ ],
