@@ -3,6 +3,18 @@
   "releases" : [ {
     "commit" : "603c213a7c8c1af98e860ca2cf75467e28cb2e14",
     "versions" : [ "1.2.2" ],
-    "compatibility" : [ ]
+    "compatibility" : [ {
+      "service" : "orca",
+      "version" : "2022.11.08.17.42.51.release-1.28.x",
+      "outcome" : "failure",
+      "stacks" : [ "2.28.1-rc3" ],
+      "platforms" : [ ],
+      "extensions" : [ {
+        "name" : "orca-armory",
+        "version" : "2022.11.08.18.20.28.release-2.28.x"
+      } ],
+      "checkRunUrl" : "https://github.com/spinnaker-plugin-examples/springExamplePlugin/runs/9422038220",
+      "startedAt" : "2022-11-10T20:34:22Z"
+    } ]
   } ]
 }
