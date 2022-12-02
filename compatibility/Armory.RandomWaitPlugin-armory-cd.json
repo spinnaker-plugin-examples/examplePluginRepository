@@ -1,8 +1,4 @@
 {
   "id" : "Armory.RandomWaitPlugin",
-  "releases" : [ {
-    "commit" : "da3dfb5c06248e8557f167b7ae24b16b26910eb4",
-    "versions" : [ "1.2.1" ],
-    "compatibility" : [ ]
-  } ]
+  "releases" : [ ]
 }
