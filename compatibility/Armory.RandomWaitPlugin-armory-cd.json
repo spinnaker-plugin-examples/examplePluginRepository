@@ -5,6 +5,15 @@
     "versions" : [ "1.2.1" ],
     "compatibility" : [ {
       "service" : "orca",
+      "version" : "2022.12.06.21.24.35.release-1.29.x",
+      "outcome" : "success",
+      "stacks" : [ ],
+      "platforms" : [ "1.29.1" ],
+      "extensions" : [ ],
+      "checkRunUrl" : "https://github.com/spinnaker-plugin-examples/pf4jStagePlugin/runs/9929351473",
+      "startedAt" : "2022-12-06T23:47:42Z"
+    }, {
+      "service" : "orca",
       "version" : "2022.11.23.15.55.22.release-1.28.x",
       "outcome" : "success",
       "stacks" : [ ],
