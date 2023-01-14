@@ -1,8 +1,4 @@
 {
   "id" : "Armory.SpringExamplePlugin",
-  "releases" : [ {
-    "commit" : "603c213a7c8c1af98e860ca2cf75467e28cb2e14",
-    "versions" : [ "1.2.2" ],
-    "compatibility" : [ ]
-  } ]
+  "releases" : [ ]
 }
